@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ae4ec01-dc17-4c57-9804-18bf9fe71638" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hKSNXXgbsTzYxbIjyL3nNYSefE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateKotlinClassDialog.RecentsKey">
+      <recent name="ar.unq.edu" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainApplicationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="instagram" />
+      <option name="VM_PARAMETERS" value="-Djava.system.class.loader=org.uqbar.apo.APOClassLoader" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ar.unq.edu.MainApplicationKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainApplicationKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ae4ec01-dc17-4c57-9804-18bf9fe71638" name="Default Changelist" comment="" />
+      <created>1599758252103</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599758252103</updated>
+      <workItem from="1599758253248" duration="316000" />
+      <workItem from="1599758586142" duration="59000" />
+      <workItem from="1599758757834" duration="811000" />
+      <workItem from="1599766746156" duration="149000" />
+      <workItem from="1599778412528" duration="8655000" />
+      <workItem from="1599921673229" duration="54000" />
+      <workItem from="1599956060336" duration="23000" />
+      <workItem from="1600042878141" duration="4290000" />
+      <workItem from="1600047548827" duration="26000" />
+      <workItem from="1600048040686" duration="1539000" />
+      <workItem from="1600050012855" duration="1826000" />
+      <workItem from="1600177829173" duration="5254000" />
+      <workItem from="1600184003121" duration="332000" />
+      <workItem from="1600184390120" duration="13180000" />
+      <workItem from="1600208305246" duration="3483000" />
+      <workItem from="1600211952303" duration="4904000" />
+      <workItem from="1600292941885" duration="7821000" />
+      <workItem from="1600360399755" duration="5752000" />
+      <workItem from="1600368658604" duration="31000" />
+      <workItem from="1600368798819" duration="336000" />
+      <workItem from="1600981436166" duration="289000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599758875715">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1599758875715" />
+    <state x="775" y="137" key="#com.intellij.ide.util.MemberChooser" timestamp="1600212548239">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="775" y="137" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1600212548239" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600196611437">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1600196611437" />
+    <state x="462" y="155" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1600298659179">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="155" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1600298659179" />
+    <state width="1323" height="176" key="GridCell.Tab.0.bottom" timestamp="1600369137837">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600369137837" />
+    <state width="1323" height="176" key="GridCell.Tab.0.center" timestamp="1600369137837">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600369137837" />
+    <state width="1323" height="176" key="GridCell.Tab.0.left" timestamp="1600369137837">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600369137837" />
+    <state width="1323" height="176" key="GridCell.Tab.0.right" timestamp="1600369137837">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600369137837" />
+    <state width="1323" height="254" key="GridCell.Tab.1.bottom" timestamp="1600300784431">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="254" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600300784431" />
+    <state width="1323" height="254" key="GridCell.Tab.1.center" timestamp="1600300784430">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="254" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1600300784430" />
+    <state width="1323" height="254" key="GridCell.Tab.1.left" timestamp="1600300784430">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="254" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1600300784430" />
+    <state width="1323" height="254" key="GridCell.Tab.1.right" timestamp="1600300784430">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="254" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1600300784430" />
+    <state x="274" y="25" key="new project wizard" timestamp="1600981732573">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="274" y="25" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1600981732573" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1600360656204">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1600360656204" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1600297949668">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1600297949668" />
+  </component>
+</project>
