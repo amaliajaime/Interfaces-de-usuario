@@ -1,0 +1,48 @@
+.margin-top-md {
+  margin: auto;
+  margin-top: 10px;
+}   
+
+.padding-card {
+  padding: 5px 10px;
+}
+
+.profile-image {
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: 50%;
+}
+
+.instagram-button {
+  border: none; /* Remove borders */
+  background-color: white;
+  width: 33%;
+}
+
+.input-search{
+  width: 97%;
+}
+
+.logout{
+  display: block;
+  justify-content: center;
+  max-width: max-content;
+  margin: auto;
+}
+
+.image-button{
+  width: 2rem;
+  background-color: white;
+  border: none;
+}
+
+.photo-user-login{
+  width: 33%;
+  display: flex;
+  justify-content: center;
+}
+
+.column {
+  float: left;
+  width: 33%;
+  padding: 10px;
+}
